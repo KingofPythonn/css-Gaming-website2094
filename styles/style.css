@@ -136,6 +136,114 @@ body {
 
 }
 
+#control {
+  position: absolute;
+  left: 772px;
+  width: 802px;
+  height: 671px;
+}
+
+#cry {
+  position: absolute;
+  width: 101px;
+  height: 99px;
+  top: 202px;
+  left: 828px;
+}
+
+
+#unreal {
+  position: absolute;
+  width: 59px;
+  height: 64px;
+  top: 218px;
+  left: 1168px;
+  rotate: 0;
+}
+
+
+.title {
+  position: absolute;
+  color: white;
+  width: 404px;
+  height: 58px;
+  top: 893px;
+  left: 147px;
+  font-size: 31px;
+  font-weight: 700;
+
+
+  font-family: "Rubik", sans-serif;
+
+  font-style: normal;
+
+
+
+}
+
+
+#list1 {
+  position: absolute;
+  top: 1008px;
+  left: 147px;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  color: white;
+  font-weight: 500;
+
+
+
+}
+
+#list2 {
+  position: absolute;
+  top: 1008px;
+  left: 445px;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  color: white;
+  font-weight: 500;
+
+
+
+
+}
+
+#list3 {
+  position: absolute;
+  top: 1008px;
+  left: 743px;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  color: white;
+  font-weight: 500;
+
+
+}
+
+#list4 {
+  position: absolute;
+  top: 1008px;
+  left: 1042px;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  color: white;
+  font-weight: 500;
+
+
+}
+
+
+
+#img {
+  width: 252px;
+  height: 277px;
+}
+
 
 
 
