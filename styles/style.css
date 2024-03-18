@@ -242,11 +242,224 @@ body {
 #img {
   width: 252px;
   height: 277px;
+  border-radius: 20px;
+}
+
+.paragraph {
+  position: absolute;
+  top: 1480px;
+  left: 307px;
+  width: 826px;
+  height: 132px;
+  font-size: 35px;
+  color: white;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  line-height: 65.63px;
+
 }
 
 
+#topic {
+  position: absolute;
+  width: 209px;
+  height: 40px;
+  top: 1679px;
+  left: 147px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  line-height: 65.63px;
+  font-size: 30px;
 
 
+
+}
+
+.paragraph2 {
+  position: absolute;
+  width: 545px;
+  height: 101px;
+  top: 1751px;
+  left: 147px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 30px;
+  font-size: 16px;
+
+
+}
+
+.spiderman {
+  position: absolute;
+  width: 1146px;
+  height: 462px;
+  top: 1898px;
+  left: 147px;
+  border-radius: 5px;
+
+
+}
+
+#topic2 {
+  position: absolute;
+  width: 305pxpx;
+  height: 56px;
+  top: 2508px;
+  left: 567px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  line-height: 65.63px;
+  font-size: 30px;
+  text-align: center;
+
+
+
+}
+
+.paragraph3 {
+  position: absolute;
+  width: 497px;
+  height: 57px;
+  top: 2579px;
+  left: 471px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 26.25px;
+  font-size: 14px;
+  text-align: center;
+
+
+
+}
+
+#pro1 {
+  position: absolute;
+  width: 382px;
+  height: 223px;
+  top: 2707px;
+  left: 135px;
+  border-radius: 20px;
+
+}
+
+#pro2 {
+  position: absolute;
+  width: 382px;
+  height: 223px;
+  top: 2707px;
+  left: 544px;
+  border-radius: 20px;
+}
+
+#pro3 {
+  position: absolute;
+  width: 352px;
+  height: 223px;
+  top: 2707px;
+  left: 953px;
+  border-radius: 20px;
+}
+
+#pro4 {
+  position: absolute;
+  width: 246px;
+  height: 223px;
+  top: 2963px;
+  left: 135px;
+  border-radius: 20px;
+}
+
+#pro5 {
+  position: absolute;
+  width: 401px;
+  height: 223px;
+  top: 2963px;
+  left: 408px;
+  border-radius: 20px;
+}
+
+#pro6 {
+  position: absolute;
+  width: 469px;
+  height: 223px;
+  top: 2963px;
+  left: 836px;
+  border-radius: 20px;
+}
+
+.see {
+
+  position: absolute;
+  left: 650px;
+  top: 3258px;
+  width: 139px;
+  height: 57px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 37.5px;
+  text-align: center;
+
+
+}
+
+
+.see2 {
+
+  position: absolute;
+  left: 1154px;
+  top: 893px;
+  width: 139px;
+  height: 57px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 37.5px;
+
+
+
+}
+
+.title2 {
+  position: absolute;
+  width: 209px;
+  height: 40px;
+  top: 3420px;
+  left: 135px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  line-height: 56.25px;
+  font-size: 30px;
+
+
+
+}
+
+.paragraph4 {
+  position: absolute;
+  width: 545px;
+  height: 57px;
+  top: 3492px;
+  left: 135px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 30px;
+  font-size: 16px;
+
+}
 
 
 /* good luck */
