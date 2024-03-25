@@ -406,10 +406,84 @@ body {
     line-height: 26.25px;
 
 
+}
+
+.div4 {
+    background-color: hsla(25, 31%, 8%, 1);
+    width: 100%;
+    height: 603px;
+    position: absolute;
+    top: 1524px;
+
+}
+
+.div4>img {
+    position: relative;
+    top: 113px;
+    left: 110px;
+    width: 496px;
+    height: 490px;
+    border-radius: 24px 24px 0px 0px;
+
+}
+
+.div4>h3 {
+    position: absolute;
+    font-size: 16px;
+    top: 134px;
+    left: 701px;
+    width: 105px;
+    height: 32px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    line-height: 32.4px;
 
 
 
 }
+
+
+.div4>h2 {
+
+    position: absolute;
+    font-size: 28px;
+    top: 180px;
+    left: 701px;
+    width: 531px;
+    height: 150px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    line-height: 44.1px;
+
+}
+
+.div4>p {
+    position: absolute;
+    font-size: 16px;
+    top: 344px;
+    left: 701px;
+    width: 536px;
+    height: 159px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    line-height: 32.4px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
